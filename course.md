@@ -1,3 +1,3 @@
-# Data Structures
+# Programming Fundamentals
 
-Data Structures module
+Programming Fundamentals module

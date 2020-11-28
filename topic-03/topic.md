@@ -1,3 +1,3 @@
-# Units with Archive + Web links
+# Module Description
 
-This topic has 2 units - these have archives and links to zoom and podcasts
+This topic presents the module description
