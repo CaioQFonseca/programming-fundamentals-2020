@@ -1,3 +1,8 @@
+# Programming Fundamentals Module 
+(https://tutors-svelte.netlify.app/#/course/programming-fundamentals-2020.netlify.app)
+
+This is the repo created for the site for the Programming Fundamentals 2020 module - WIT website. It was created following the steps below: 
+
 # tutors-starter
 
 A starter course structure for the tutors generator. This course is deployed here:
