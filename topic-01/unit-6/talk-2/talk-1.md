@@ -1,3 +1,3 @@
-Lecture 5b - Methods
+Lecture 6b - Swing & JOptionPane
 
 Slides
